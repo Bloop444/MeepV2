@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - HandTag
+  - Wood
+  - Breakable
   layers:
   - Default
   - TransparentFX
@@ -11,8 +14,8 @@ TagManager:
   - Non Walkable
   - Water
   - UI
-  - 
-  - 
+  - Left Hand
+  - Right Hand
   - 
   - 
   - 
