@@ -7,7 +7,7 @@ public class DeleteFromHierarchy : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player")) 
+        if (other.CompareTag("HandTag")) 
         {
             StartCoroutine(DeleteAfterDelay());
         }
