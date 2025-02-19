@@ -2,38 +2,35 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using PlayFab;
-using System.Threading.Tasks;
 using PlayFab.ClientModels;
 using UnityEngine.SceneManagement;
 using TMPro;
 
 public class Playfablogin : MonoBehaviour
 {
-    [Header("COSMETICS")]
     public static Playfablogin instance;
     public string MyPlayFabID;
     public string CatalogName;
     public List<GameObject> specialitems;
     public List<GameObject> disableitems;
-    [Header("CURRENCY")]
-    public string CurrencyCode ="HS";
-    public string CurrencyName;
-    public TextMeshPro currencyText;
-    [SerializeField]
-    public int coins;
-    [Header("BANNED")]
+
+    [System.Serializable]
+    public class Currency
+    {
+        public string CurrencyCode;
+        public string CurrencyName;
+        public int Balance;
+        public TextMeshPro CurrencyText;
+    }
+
+    public List<Currency> Currencies = new List<Currency>();
+
     public string bannedscenename;
-    [Header("TITLE DATA")]
     public TextMeshPro MOTDText;
-    [Header("PLAYER DATA")]
     public TextMeshPro UserName;
     public string StartingUsername;
     public string name;
-    [SerializeField]
-    public bool UpdateName;
-    
-
-
+    [SerializeField] public bool UpdateName;
 
     public void Awake()
     {
@@ -43,19 +40,18 @@ public class Playfablogin : MonoBehaviour
     void Start()
     {
         login();
-        
     }
 
     public void login()
     {
-
         var request = new LoginWithCustomIDRequest
         {
             CustomId = SystemInfo.deviceUniqueIdentifier,
             CreateAccount = true,
             InfoRequestParameters = new GetPlayerCombinedInfoRequestParams
             {
-                GetPlayerProfile = true
+                GetPlayerProfile = true,
+                GetUserVirtualCurrency = true
             }
         };
         PlayFabClientAPI.LoginWithCustomID(request, OnLoginSuccess, OnError);
@@ -63,7 +59,7 @@ public class Playfablogin : MonoBehaviour
 
     public void OnLoginSuccess(LoginResult result)
     {
-        Debug.Log("logging in");
+        Debug.Log("Logging in");
         GetAccountInfoRequest InfoRequest = new GetAccountInfoRequest();
         PlayFabClientAPI.GetAccountInfo(InfoRequest, AccountInfoSuccess, OnError);
         GetVirtualCurrencies();
@@ -73,39 +69,6 @@ public class Playfablogin : MonoBehaviour
     public void AccountInfoSuccess(GetAccountInfoResult result)
     {
         MyPlayFabID = result.AccountInfo.PlayFabId;
-
-        PlayFabClientAPI.GetUserInventory(new GetUserInventoryRequest(),
-        (result) =>
-        {
-            foreach (var item in result.Inventory)
-            {
-                if (item.CatalogVersion == CatalogName)
-                {
-                    for (int i = 0; i < specialitems.Count; i++)
-                    {
-                        if (specialitems[i].name == item.ItemId)
-                        {
-                            specialitems[i].SetActive(true);
-                        }
-                    }
-                    for (int i = 0; i < disableitems.Count; i++)
-                    {
-                        if (disableitems[i].name == item.ItemId)
-                        {
-                            disableitems[i].SetActive(false);
-                        }
-                    }
-                }
-            }
-        },
-        (error) =>
-        {
-            Debug.LogError(error.GenerateErrorReport());
-        });
-    }
-
-    async void Update()
-    { 
     }
 
     public void GetVirtualCurrencies()
@@ -115,8 +78,14 @@ public class Playfablogin : MonoBehaviour
 
     void OnGetUserInventorySuccess(GetUserInventoryResult result)
     {
-        coins = result.VirtualCurrency[CurrencyCode];
-        currencyText.text = "You have " + coins.ToString() + " " + CurrencyName;
+        foreach (var currency in Currencies)
+        {
+            if (result.VirtualCurrency.ContainsKey(currency.CurrencyCode))
+            {
+                currency.Balance = result.VirtualCurrency[currency.CurrencyCode];
+                currency.CurrencyText.text = "You have " + currency.Balance.ToString() + " " + currency.CurrencyName;
+            }
+        }
     }
 
     private void OnError(PlayFabError error)
@@ -125,9 +94,7 @@ public class Playfablogin : MonoBehaviour
         {
             SceneManager.LoadScene(bannedscenename);
         }
-
     }
-    //Get TitleData
 
     public void GetMOTD()
     {
@@ -136,14 +103,11 @@ public class Playfablogin : MonoBehaviour
 
     public void MOTDGot(GetTitleDataResult result)
     {
-        if (result.Data == null || result.Data.ContainsKey("MOTD") == false)
+        if (result.Data == null || !result.Data.ContainsKey("MOTD"))
         {
             Debug.Log("No MOTD");
             return;
         }
         MOTDText.text = result.Data["MOTD"];
-        
     }
-
-
 }
