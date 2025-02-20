@@ -10,9 +10,9 @@ public class Cannon : MonoBehaviour
     public XRController controller;
     public InputHelpers.Button fireButton = InputHelpers.Button.Trigger;
     public float activationThreshold = 0.1f;
-    public float fireRange = 2f; 
+    public float fireRange = 2f;
     public Transform player;
-    public bool testFire = false; 
+    public bool testFire = false;
 
     void Update()
     {
@@ -49,7 +49,9 @@ public class Cannon : MonoBehaviour
 
 public class Cannonball : MonoBehaviour
 {
-    public GameObject impactVFX; 
+    public GameObject impactVFX;
+    public float explosionRadius = 5f;
+    public float explosionForce = 500f;
 
     void OnCollisionEnter(Collision collision)
     {
@@ -57,6 +59,18 @@ public class Cannonball : MonoBehaviour
         {
             Instantiate(impactVFX, transform.position, Quaternion.identity);
         }
-        Destroy(gameObject); 
+
+        
+        Collider[] colliders = Physics.OverlapSphere(transform.position, explosionRadius);
+        foreach (Collider hit in colliders)
+        {
+            Rigidbody rb = hit.GetComponent<Rigidbody>();
+            if (rb != null)
+            {
+                rb.AddExplosionForce(explosionForce, transform.position, explosionRadius);
+            }
+        }
+
+        Destroy(gameObject);
     }
 }
