@@ -150,7 +150,7 @@ MonoBehaviour:
   explosionVFX: {fileID: 2435808147811369282}
   explosionSFX: {fileID: 0}
   explosionRadius: 10.69
-  explosionForce: 500
+  explosionForce: 20
   upliftModifier: 1
 --- !u!1001 &2435956110019064056
 PrefabInstance:

@@ -83,7 +83,7 @@ public class Playfablogin : MonoBehaviour
             if (result.VirtualCurrency.ContainsKey(currency.CurrencyCode))
             {
                 currency.Balance = result.VirtualCurrency[currency.CurrencyCode];
-                currency.CurrencyText.text = "You have " + currency.Balance.ToString() + " " + currency.CurrencyName;
+                currency.CurrencyText.text = "" + currency.Balance.ToString();
             }
         }
     }
