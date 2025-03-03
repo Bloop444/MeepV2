@@ -8,6 +8,8 @@ TagManager:
   - Wood
   - Breakable
   - Pickaxe
+  - Axe
+  - Log
   layers:
   - Default
   - TransparentFX
