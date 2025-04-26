@@ -10,6 +10,15 @@ TagManager:
   - Pickaxe
   - Axe
   - Log
+  - Bullet
+  - Dirt
+  - ColorTag
+  - Glass
+  - Metal
+  - Carpet
+  - Stone
+  - ButtonUnpressed
+  - ButtonPressed
   layers:
   - Default
   - TransparentFX
