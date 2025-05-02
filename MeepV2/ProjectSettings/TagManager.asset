@@ -19,6 +19,7 @@ TagManager:
   - Stone
   - ButtonUnpressed
   - ButtonPressed
+  - Tree
   layers:
   - Default
   - TransparentFX
@@ -30,7 +31,7 @@ TagManager:
   - Right Hand
   - Horror URP
   - Player
-  - 
+  - Non Colidable
   - 
   - 
   - 
