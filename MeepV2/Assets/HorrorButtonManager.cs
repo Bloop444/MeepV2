@@ -63,6 +63,13 @@ public class HorrorButtonManager : MonoBehaviour
             hasPlayerSRC = true;
             doorOpenSrc.PlayOneShot(doorOpen);
             door.GetComponent<Renderer>().enabled = false;
+            door.GetComponent<Collider>().enabled = false;
+
+            foreach (GameObject button in buttons)
+            {
+                Destroy(button);
+                Destroy(gameObject.GetComponent<HorrorButtonManager>());
+            }
         }
     }
 
