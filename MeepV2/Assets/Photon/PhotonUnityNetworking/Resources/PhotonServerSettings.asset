@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: PhotonServerSettings
   m_EditorClassIdentifier: 
   AppSettings:
-    AppIdRealtime: d2e508c5-4836-48ad-a4a9-341654c6c10e
+    AppIdRealtime: fae510e7-fcf1-46eb-9ca5-6da3e588b1ed
     AppIdFusion: 
     AppIdChat: 
-    AppIdVoice: 764004c8-56e3-4365-8e10-4e05b5644070
+    AppIdVoice: 91054bd4-951b-4b39-9444-d92b09a012db
     AppVersion: 
     UseNameServer: 1
-    FixedRegion: US
+    FixedRegion: us
     Server: 
     Port: 0
     ProxyServer: 
@@ -49,6 +49,8 @@ MonoBehaviour:
   - KickPlayer
   - JoinRoomSound
   - PlayHitSound
+  - EndRound
+  - OnHit
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 0

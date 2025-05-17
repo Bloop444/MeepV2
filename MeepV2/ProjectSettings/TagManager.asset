@@ -20,6 +20,7 @@ TagManager:
   - ButtonUnpressed
   - ButtonPressed
   - Tree
+  - TagHitBox
   layers:
   - Default
   - TransparentFX
