@@ -517,7 +517,8 @@ MonoBehaviour:
   - Assets/MODEL/tuff wheel.blend
   - Assets/MODEL/Shop.fbx
   - Assets/MODEL/Meep Player Model V1.fbx
-  uvOverlapAssetList: 00000000ffffffff0101000001010000010100000101000001010000000000000101000000000000
+  - Assets/Pool rooms monster Meeps hide and seek.blend
+  uvOverlapAssetList: 00000000ffffffff010100000101000001010000010100000101000000000000010100000000000001010000
   xatlasWarningShown: 0
   foundCompatibleSetup: 1
   gpuName: NVIDIA GeForce RTX 3050
