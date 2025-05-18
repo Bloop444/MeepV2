@@ -31,7 +31,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["Cube_003.003","Cube_003.006","Cube_003.005","Cube_003.002","Cube_003.001","TableLong__1_.010","TableLong__1_.009","TableLong__1_.008","TableLong__1_.007","TableLong__1_.006","TableLong__1_.005","TableLong__1_.004","TableLong__1_.003","TableLong__1_.002","TableLong__1_.001","TableLong__1_","Cube.006","Cube.014","Cube.024","Cube.023","Cube.022","Cube.021","Cube.020","Cube.019","Cube.018","Cube.017","Cube.016","Cube.015","Cube.013","Cube.012","Cube.011","Cube.010","Cube.009","Cube.008","Cube.007","Cube.005","Cube.004","Cube.002","Cube.001"],"padding":[124,77,77,124,124,71,71,71,71,71,71,71,71,71,71,71,29,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
+    - '#BAKERY{"meshName":["Cube_003.003","Cube_003.002","Cube_003.001","TableLong__1_","TableLong__1_.002","Cube_003.006","Cube_003.005","TableLong__1_.001"],"padding":[109,109,109,63,63,68,68,63],"unwrapper":[0,0,0,0,0,0,0,0]}'
     clipAnimations: []
     isReadable: 0
   meshes:

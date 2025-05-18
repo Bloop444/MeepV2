@@ -14,4 +14,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   modifiedAssetPathList:
   - Assets/Bakery/examples/content/sponza/sponza.FBX
-  modifiedAssetPaddingHash: d6a958ff
+  - Assets/Ben Skibiti Stuff/Models/Player Model And Textures/tophattextured.fbx
+  - Assets/Models/shelf.blend
+  - Assets/MODEL/gazebo.blend
+  - Assets/Models/capucorp.blend
+  - Assets/Models/frontdesk.blend
+  - Assets/MODEL/untitled 246.fbx
+  - Assets/Material/Materials/WoodFloor040_4K-JPG/untitled 2.fbx
+  - Assets/Models/ImageToStl.com_doorindustrial.fbx
+  - Assets/Models/Crate.blend
+  - Assets/Models/TableLong.blend
+  - Assets/MODEL/couch.fbx
+  - Assets/MODEL/couch 2.fbx
+  - Assets/Ben Skibiti Stuff/Models/buttons.fbx
+  - Assets/Ben Skibiti Stuff/Models/ShopBoard.fbx
+  - Assets/Ben Skibiti Stuff/Models/Lights.fbx
+  - Assets/Ben Skibiti Stuff/Models/stool.FBX
+  - Assets/Ben Skibiti Stuff/Models/woodthing.fbx
+  - Assets/Ben Skibiti Stuff/Models/Shelves.fbx
+  - Assets/Ben Skibiti Stuff/Models/FutureTechScreen.fbx
+  modifiedAssetPaddingHash: d6a958ff8ac5bdecbdbb81455dc5d89098f23a06377e936309a7fea2073ba505677bd20bbb7d93637e4dfff027dc894bd2f23a06ecc12491ac0b591bc82784c6ca318883a35031eefa4dfff008dc894b
