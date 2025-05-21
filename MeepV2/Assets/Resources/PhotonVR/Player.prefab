@@ -1578,7 +1578,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 376e8304d3bd2e947906443968917890, type: 2}
     - target: {fileID: 8707526081002643308, guid: 8c635b2171035c744a1dd5a5362a7cb8, type: 3}
       propertyPath: m_Name
-      value: 'Meep Player Model V1 '
+      value: PLUSHY
       objectReference: {fileID: 0}
     - target: {fileID: 8707526081002643308, guid: 8c635b2171035c744a1dd5a5362a7cb8, type: 3}
       propertyPath: m_IsActive

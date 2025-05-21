@@ -523,7 +523,9 @@ MonoBehaviour:
   - Assets/MODEL/Bannana meep.fbx
   - Assets/Models/Meep HeadPhones.fbx
   - Assets/Models/Hide N seek map (1).fbx
-  uvOverlapAssetList: 00000000ffffffff0101000001010000010100000101000001010000000000000101000000000000010100000101000001010000010100000101000001010000
+  - Assets/Glitched Cat Studios/Shop System/Models/Add to Cart Button.fbx
+  - Assets/MODEL/ATM.blend
+  uvOverlapAssetList: 00000000ffffffff01010000010100000101000001010000010100000000000001010000000000000101000001010000010100000101000001010000010100000000000000000000
   xatlasWarningShown: 0
   foundCompatibleSetup: 1
   gpuName: NVIDIA GeForce RTX 3050
