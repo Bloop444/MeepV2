@@ -33,7 +33,11 @@ MonoBehaviour:
   - Assets/Ben Skibiti Stuff/Models/woodthing.fbx
   - Assets/Ben Skibiti Stuff/Models/Shelves.fbx
   - Assets/Ben Skibiti Stuff/Models/FutureTechScreen.fbx
-  modifiedAssetPaddingHash: d6a958ff8ac5bdecbdbb81455dc5d89098f23a06377e936309a7fea2073ba505677bd20bbb7d93637e4dfff027dc894bd2f23a06ecc12491ac0b591bc82784c6ca318883a35031eefa4dfff008dc894b
+  - Assets/Glitched Cat Studios/Shop System/Models/Shop Purchase Kiosk.fbx
+  - Assets/Glitched Cat Studios/Shop System/Models/Cosmetic Select Stand.fbx
+  - Assets/tfrewrte4fwr4t54rtg.blend
+  - Assets/Models/tfrewrte4fwr4t54rtg.blend
+  modifiedAssetPaddingHash: d6a958ffecb4d8acbdbb81455dc5d89098f23a06377e936309a7fea2073ba505677bd20bbb7d93637e4dfff027dc894bd2f23a06ecc12491ac0b591bc82784c6ca318883a35031eefa4dfff008dc894bf31a7531b45634b7f166e2a8f166e2a8
   modifiedMeshList: []
   modifiedMeshPaddingList: 
   modifiedAssets:
@@ -420,7 +424,7 @@ MonoBehaviour:
     - Cube.002
     - Cube.001
     - Cube
-    padding: 00010000e100000000010000
+    padding: 000100000001000000010000
     unwrapper: 000000000000000000000000
   - meshName:
     - Cube.001
@@ -506,6 +510,24 @@ MonoBehaviour:
     - Cube
     padding: 24000000
     unwrapper: 00000000
+  - meshName:
+    - Cube.002
+    - Cube.001
+    - Cube
+    padding: 000100000001000069000000
+    unwrapper: 000000000000000000000000
+  - meshName:
+    - Cube
+    padding: 85000000
+    unwrapper: 00000000
+  - meshName:
+    - Cube
+    padding: 47000000
+    unwrapper: 00000000
+  - meshName:
+    - Cube
+    padding: 47000000
+    unwrapper: 00000000
   assetList:
   - Assets/Bakery/examples/content/sponza/bush.FBX
   - Assets/Bakery/examples/content/floor_lamp.FBX
@@ -525,7 +547,32 @@ MonoBehaviour:
   - Assets/Models/Hide N seek map (1).fbx
   - Assets/Glitched Cat Studios/Shop System/Models/Add to Cart Button.fbx
   - Assets/MODEL/ATM.blend
-  uvOverlapAssetList: 00000000ffffffff01010000010100000101000001010000010100000000000001010000000000000101000001010000010100000101000001010000010100000000000000000000
+  - Assets/tfrewrte4fwr4t54rtg.blend
+  - Assets/Meeps hide and seek lv3 monster.blend
+  - Assets/LandMine.blend
+  - Assets/Silly roof Turret.fbx
+  - Assets/UnityTechnologies/ParticlePack/EffectExamples/Misc Effects/Animations/@EllenIdle.fbx
+  - Assets/UnityTechnologies/ParticlePack/Shared/Environment/Models/Railing.fbx
+  - Assets/UnityTechnologies/ParticlePack/Shared/Environment/Models/SideWall.fbx
+  - Assets/UnityTechnologies/ParticlePack/EffectExamples/Misc Effects/Models/Ellen.fbx
+  - Assets/UnityTechnologies/ParticlePack/Shared/Environment/Models/Stairs.fbx
+  - Assets/UnityTechnologies/ParticlePack/Shared/Environment/Models/AreaLine.fbx
+  - Assets/UnityTechnologies/ParticlePack/EffectExamples/Magic Effects/Models/IceLance.FBX
+  - Assets/UnityTechnologies/ParticlePack/Shared/Environment/Models/FloorLong.fbx
+  - Assets/UnityTechnologies/ParticlePack/Shared/Environment/Models/SmallLight.fbx
+  - Assets/UnityTechnologies/ParticlePack/Shared/Environment/Models/Step.fbx
+  - Assets/UnityTechnologies/ParticlePack/EffectExamples/Water Effects/Models/DropSplash.fbx
+  - Assets/UnityTechnologies/ParticlePack/EffectExamples/Misc Effects/Models/Candle.fbx
+  - Assets/UnityTechnologies/ParticlePack/EffectExamples/Magic Effects/Models/IceShard.FBX
+  - Assets/UnityTechnologies/ParticlePack/Shared/Environment/Models/EndWall.fbx
+  - Assets/UnityTechnologies/ParticlePack/EffectExamples/Magic Effects/Models/RockDebris.FBX
+  - Assets/UnityTechnologies/ParticlePack/EffectExamples/Magic Effects/Models/RockSpike.FBX
+  - Assets/UnityTechnologies/ParticlePack/Shared/Environment/Models/CornerWall.fbx
+  - Assets/UnityTechnologies/ParticlePack/EffectExamples/Misc Effects/Models/Flakes.fbx
+  - Assets/UnityTechnologies/ParticlePack/EffectExamples/Misc Effects/Models/FireFly.fbx
+  - Assets/UnityTechnologies/ParticlePack/EffectExamples/Smoke & Steam Effects/Models/RockDebris.FBX
+  - Assets/UnityTechnologies/ParticlePack/Shared/Environment/Models/LongOverhangWall.fbx
+  uvOverlapAssetList: 00000000ffffffff0101000001010000010100000101000001010000000000000101000000000000010100000101000001010000010100000101000001010000000000000000000001010000000000000000000001010000000000000101000001010000000000000000000000000000010100000000000001010000000000000000000001010000010100000101000000000000000000000101000001010000010100000000000001010000
   xatlasWarningShown: 0
   foundCompatibleSetup: 1
   gpuName: NVIDIA GeForce RTX 3050
@@ -617,5 +664,5 @@ MonoBehaviour:
   renderSettingsRTPVWidth: 640
   renderSettingsRTPVHeight: 360
   tagOverrides: []
-  modifiedMeshPaddingArray: c900000051000000
-  modifiedMeshUnwrapperArray: 0000000000000000
+  modifiedMeshPaddingArray: 47000000
+  modifiedMeshUnwrapperArray: 00000000
