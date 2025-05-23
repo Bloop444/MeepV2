@@ -572,7 +572,287 @@ MonoBehaviour:
   - Assets/UnityTechnologies/ParticlePack/EffectExamples/Misc Effects/Models/FireFly.fbx
   - Assets/UnityTechnologies/ParticlePack/EffectExamples/Smoke & Steam Effects/Models/RockDebris.FBX
   - Assets/UnityTechnologies/ParticlePack/Shared/Environment/Models/LongOverhangWall.fbx
-  uvOverlapAssetList: 00000000ffffffff0101000001010000010100000101000001010000000000000101000000000000010100000101000001010000010100000101000001010000000000000000000001010000000000000000000001010000000000000101000001010000000000000000000000000000010100000000000001010000000000000000000001010000010100000101000000000000000000000101000001010000010100000000000001010000
+  - Assets/Ground Turret Meep.fbx
+  - Assets/FlashBang.fbx
+  - Assets/Box.fbx
+  - Assets/Models/LandMine.blend
+  - Assets/Grenade.fbx
+  - Assets/MODEL/Box.fbx
+  - Assets/diddy.blend
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
+    Kit/Models/roadRampLongCurvedWall.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidRunTurn.fbx
+  - Assets/Material/Materials/ceilinglights/KeyBoard.blend
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Guitar/Materials/GuitarMat.fbx
+  - Assets/MODEL/bettafatta.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Locomotion/Models/Meta_LocamotionBedroom.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Models/Asteroid01.fbx
+  - Assets/MODEL/Mod Hammer.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OpenXRRightHand.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Meshes/scale_affordance.fbx
+  - Assets/Models/Meeps hide and seek lv3 monster.blend
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
+    Kit/Models/rail.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/Models/Pinch_Pointer_LOD0.fbx
+  - Assets/Keos Stuff/FriendSystem/Example/FBX/AddFriendsButton.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/DemoSceneAssets/Models/Primitive_Torus.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Guitar/Models/Guitar.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidMidAir.fbx
+  - Assets/Bakery/examples/content/logolight.FBX
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Screen/Materials/FrameMaterial.fbx
+  - Assets/Ben Skibiti Stuff/Models/COWBOY HAT.fbx
+  - Assets/Models/volacnoislandv1.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Room/Models/backgroundSkyDome.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidJumpAndFall.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/ChessPiece/Materials/ChessPieceMaterial.fbx
+  - Assets/MODEL/FlashBang.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidWalk.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Materials/Planet.fbx
+  - Packages/com.meta.xr.mrutilitykit/Tests/Meshes/bevelcube.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Meshes/BowlCollider.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/CoffeeCup/CoffeeCupHulls.fbx
+  - Assets/MODEL/Youtube badge.fbx
+  - Assets/Models/POOP.fbx
+  - Assets/Photon/PhotonVoice/Demos/DemoVoicePun/Models/Characters/Player.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/ToyBox/ToyBoxesMat.fbx
+  - Assets/MODEL/Lvl 2/Pool map.blend
+  - Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Models/Robot Kyle.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/Materials/pasted_touchPBS_MAT.fbx
+  - Assets/Models/spooky island.fbx
+  - Assets/Models/jdkalsliufdsALKJfdklh;sahjkGHBKLJDSjkglhkjlhcSjkhbaCHLKJSJLKHBajbkhCSZKJHbchJK;LSAZJKBcJHKSAZ.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/WaterParticles/BubblePopParticle.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
+    city/Models/tree_1.FBX
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
+    Kit/Models/flagGreen.fbx
+  - Assets/Photon/PhotonVoice/Demos/DemoVoicePun/Models/Characters/ZomBear.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Materials/Moon.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/Cone.obj
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/MapWithPins/Materials/MapMat.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidRunTurnSharp.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Locomotion/Models/Meta_LocomotionDoors.fbx
+  - Assets/MODEL/ball.blend
+  - Assets/Photon/PhotonVoice/Demos/DemoVoicePun/Stylized city/Models/tree_6.FBX
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OVRHand_L.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Locomotion/Models/Meta_LocomotionStairs.fbx
+  - Assets/Ben Skibiti Stuff/Models/boombox.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/DemoSceneAssets/Models/Primitive_Pyramid.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OpenXRLeftHand.fbx
+  - Assets/MODEL/nelom jumpscare (1).blend
+  - Assets/Models/MWA Player Model WIP.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/DemoSceneAssets/Models/Primitive_Cylinder.fbx
+  - Assets/MODEL/stand funny.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Meshes/skinned_rounded_rectangle.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/DemoSceneAssets/Models/Primitive_Tapered_Cylinder.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
+    Kit/Models/roadCornerSmallBorder.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
+    Kit/Models/roadStraightBridgeStart.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
+    city/Models/car_4.FBX
+  - Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/Models/UniversalController.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Locomotion/Models/BackgroundSkydome.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/HandTracking/OculusHand_L.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Mug/Materials/mugMaterial.fbx
+  - Assets/Models/FSAFDSADAS.fbx
+  - Assets/MODEL/Pools room monster.fbx
+  - Assets/Resources/PhotonVR/Assets/VRTopHat.fbx
+  - Assets/Models/music thingy.blend
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Materials/DefaultMaterial.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Key/Materials/keyMaterial.fbx
+  - Assets/MODEL/Cardboard of meep.blend
+  - Assets/Models/best diddy model.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/CoffeeCup/CoffeeCupFractured.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/PingPong/PingPngPaddle.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx
+  - Packages/com.meta.xr.sdk.voice/Lib/Wit.ai/Art/SHUB_Sample/TPOSE_v3.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/Ray.obj
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
+    city/Models/tree_6.FBX
+  - Assets/MODEL/Ground Turret Meep.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Locomotion/Models/Meta_LocomotionBench.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Models/Spaceship.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Models/FlyerAsteroidB.fbx
+  - Assets/Ben Skibiti Stuff/Models/Cheeks Cosmetics.fbx
+  - Assets/MODEL/pc11111 (1).fbx
+  - Assets/Mining/Model/Converter.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/ChessPiece/Models/simpleGrabKnight.fbx
+  - Assets/Bakery/cave/say_daddy.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/TennisBall/TennisBallMat.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/DemoSceneAssets/Models/Primitive_Blaster_Long.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
+    Kit/Models/roadStartPositions.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/MapWithPins/Models/MapFrame.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/IconBox/Models/iconBoxMesh.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/SmallRoom/Models/smallRoom.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Mug/Models/mugMeshConvexHulls.fbx
+  - Assets/MODEL/Meep Player Model V2.fbx
+  - Assets/Models/Pool rooms monster Meeps hide and seek.blend
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/BigStone/Materials/BigStoneMat.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/DemoSceneAssets/Models/Primitive_Torus_Cut.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/ChessPiece/Models/simpleGrabKnightConvexHulls.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.fbx
+  - Assets/Models/wood.fbx
+  - Assets/MODEL/Rocket.fbx
+  - Assets/Models/island starter.fbx
+  - Assets/Models/dbcvb.fbx
+  - Assets/Models/fsafsafsa 1.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Key/Models/keyMesh.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Torch/Materials/torchMaterial.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Torch/Models/torchMesh.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/Models/BlinkVisual.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
+    Kit/Models/billboardLower.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Locomotion/Models/Meta_LocomotionRoom.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+  - Assets/Models/Cannon.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Room/Models/SmallRoom.fbx
+  - Assets/Resources/PhotonVR/Assets/VRHand.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/HandTracking/OpenXRRightHand.fbx
+  - Assets/MODEL/Lvl 2/Pool Rooms Map Updated for meep.fbx
+  - Assets/Photon/PhotonVoice/Demos/DemoVoicePun/Models/Characters/Hellephant.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/CoffeeCup/CoffeeCupMat.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Locomotion/Models/Meta_LocomotionGarden.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Meshes/debug_full_body.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/SprayBottle/Materials/SprayBottleMat.fbx
+  - Assets/Models/cutlass.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/CoffeeCup/CoffeeCup.fbx
+  - Assets/Keos Stuff/FriendSystem/Example/FBX/FriendsBoard.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/TunnelingVignette/TunnelingVignetteHemisphere.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/StonePolyhedra/Models/StonePolyhedra.fbx
+  - Assets/Ben Skibiti Stuff/Models/Carpetssss.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/HandTracking/OculusHand_R.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Locomotion/Models/Meta_LocomotionBalcony.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Materials/CubeMaterialGreen.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
+    city/Models/bush1.FBX
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
+    Kit/Models/roadCornerSmall.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/ToyBox/ToyBoxes.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidCrouch.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/PlasticCup/Materials/PlasticCupMaterial.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/DemoSceneAssets/Models/Primitive_Blaster.fbx
+  - Assets/Models/friend.blend
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Box/Materials/BoxMat.fbx
+  - Assets/Models/cxaxsaxs.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
+    city/Models/car_3.FBX
+  - Assets/Resources/PhotonVR/Assets/VRBody.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Doll/Materials/DollMat.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Locomotion/LocomotionTurorialUI.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Locomotion/Models/Meta_LocomotionGround.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/BigRedButton/Materials/PodiumMat.fbx
+  - Packages/com.unity.render-pipelines.core/Runtime/RenderPipelineResources/Mesh/UnityMaterialBall.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Meshes/skinned_articulated_arc.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/PingPong/Materials/PingPngMaterial.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Screen/Materials/ScreenMaterial.fbx
+  - Assets/MODEL/Meep gamemodes selector stand model.fbx
+  - Assets/Photon/PhotonVoice/Demos/DemoVoicePun/Stylized city/Models/tree_1.FBX
+  - Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/MetaQuestTouchPro_Right.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/MapWithPins/Models/MapPointer.fbx
+  - Assets/MODEL/Coins.blend
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/PlasticCup/PlasticCup.fbx
+  - Assets/Models/Axe.blend
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Locomotion/Models/Meta_LocomotionInteriorDoors.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
+    Kit/Models/roadStart.fbx
+  - Assets/Photon/PhotonVoice/Demos/DemoVoiceProximityChat/Prefabs/Pointer.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/DemoSceneAssets/Models/PushButton.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/Locomotion/LocomotionLocation.fbx
+  - Assets/Models/Grenade.fbx
+  - Assets/Meshes/untitled 11.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/MapWithPins/Materials/MapFrameMat.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
+    Kit/Models/roadStraight.fbx
+  - Assets/Models/leaderboard.blend
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/PingPong/PingPngBall.fbx
+  - Assets/Models/fsafsafsa.fbx
+  - Assets/MODEL/stand.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OVRHand_R.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Models/Pointer.fbx
+  - Assets/MODEL/COMPUTER.blend
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/Locomotion/LocomotionCross.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/MetaQuestTouchPro_Left.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/MetaQuestTouchPlus_Left.fbx
+  - Assets/Models/crystals.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Materials/DebugBody.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/TennisBall/TennisBall.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
+    city/Models/hamvee.FBX
+  - Assets/MODEL/Lvl 2/Pools room monster.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+  - Assets/MODEL/mep2.blend
+  - Packages/com.meta.xr.sdk.core/Meshes/HandTracking/OpenXRLeftHand.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/SprayBottle/SprayBottle.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/Models/Primitive_Wedge.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Materials/MetaQuestTouchPlusRight_Material.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidWalkTurnSharp.fbx
+  - Assets/Models/pickaxe(1).fbx
+  - Assets/MODEL/tghyujiop.fbx
+  - Assets/Models/Starter Boat.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidWalkTurn.fbx
+  - Assets/Keos Stuff/FriendSystem/Example/BLEND/FriendsBoard.blend
+  - Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidRun.fbx
+  - Assets/Models/island 1.fbx
+  - Assets/MODEL/Headphone.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Materials/CubeMaterialBlue.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Locomotion/Materials/MetaLocoTutorialUIMat.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Locomotion/Models/Materials/LocomotionWaterMat.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Slingshot/Materials/SlingshotMaterial.fbx
+  - Assets/MODEL/arcademachine.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OculusHandPinchArrowBlended.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/Locomotion/LocomotionPointer.fbx
+  - Assets/Models/friends.blend
+  - Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidIdleJumpUp.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Cube/Models/CubeMesh.fbx
+  - Assets/MODEL/Baby Oil Model.blend
+  - Assets/Models/afwfwa.fbx
+  - Assets/Keos Stuff/FriendSystem/Example/BLEND/AddFriendsButton.blend
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Screen/Models/ScreenMesh.fbx
+  - Assets/MODEL/Hide an seek map.blend
+  - Assets/cookie kitty (no leak)/kitty.fbx
+  - Packages/com.meta.xr.sdk.core/Editor/BuildingBlocks/BlockData/SampleSpatialAnchorController/Meshs/AnchorModel.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/Locomotion/Models/Meta_LocomotionStools.fbx
+  - Assets/Photon/PhotonVoice/Demos/DemoVoicePun/Stylized city/Models/bush1.FBX
+  - Assets/Models/WaterBalloonRightAnchor.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.fbx
+  - Assets/Resources/PhotonVR/Assets/VRHead.fbx
+  - Assets/Models/ramdom thing.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/MapWithPins/Models/Map.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Slingshot/Slingshot.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
+    city/Models/car_1.FBX
+  - Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Materials/MetaQuestTouchPlusLeft_Material.fbx
+  - Assets/MODEL/LightBulb.fbx
+  - Assets/MODEL/Tophat (1).fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Environment/MRDesk/Models/MRDeskShadow.fbx
+  - Packages/com.unity.render-pipelines.core/Editor/Resources/DebugProbe.fbx
+  - Assets/Models/Island IS Sigma.fbx
+  - Assets/Photon/PhotonVoice/Demos/DemoVoicePun/Models/Characters/Zombunny.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/Models/Reticle_Torus.fbx
+  - Assets/MODEL/Meep LightSaber.fbx
+  - Assets/MODEL/Pool rooms monster Meeps hide and seek.blend
+  - Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/MetaQuestTouchPlus_Right.fbx
+  - Assets/MODEL/bARREL (18).fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Materials/MetaQuestProLeft_Material.fbx
+  - Assets/MODEL/usuhankareal (2).fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidStandTurn.fbx
+  - Assets/Models/Silly roof Turret.fbx
+  - Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Materials/MetaQuestProRight_Material.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/StonePolyhedra/Materials/StonePolyhedraMat.fbx
+  - Assets/Models/fafafasfsa.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/BigRedButton/Models/BigRedButton.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/MapWithPins/Materials/MapPointerMat.fbx
+  - Assets/MODEL/Cowboy hat.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidIdle.fbx
+  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Meshes/capsule_affordance.fbx
+  - Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Models/LaserBolt.fbx
+  - Assets/Models/DFGHJKL.fbx
+  uvOverlapAssetList: 0000000000000000010100000101000001010000010100000101000000000000010100000000000001010000010100000101000001010000010100000101000000000000000000000101000000000000000000000101000000000000010100000101000000000000000000000000000001010000000000000101000000000000000000000101000001010000010100000000000000000000010100000101000001010000000000000101000001010000010100000000000000000000000000000000000001010000010100000000000001010000000000000000000001010000ffffffff010100000000000000000000000000000101000000000000010100000000000000000000000000000000000000000000010100000101000000000000000000000000000001010000000000000000000000000000000000000101000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000001010000000000000000000001010000000000000000000001010000000000000101000000000000000000000101000000000000000000000000000001010000000000000101000000000000000000000000000001010000010100000101000001010000010100000101000000000000000000000000000001010000000000000101000000000000000000000101000001010000000000000000000000000000000000000000000001010000010100000000000001010000010100000101000001010000000000000101000000000000000000000101000001010000000000000101000001010000010100000000000001010000000000000000000001010000000000000101000001010000000000000101000000000000000000000000000000000000000000000101000001010000000000000000000001010000000000000000000000000000000000000000000000000000000000000000000001010000000000000101000000000000000000000101000000000000010100000000000001010000010100000000000000000000000000000000000001010000010100000000000000000000010100000000000000000000010100000101000000000000000000000000000000000000000000000101000001010000000000000101000001010000000000000101000000000000010100000000000000000000000000000000000000000000000000000101000001010000000000000000000000000000000000000000000000000000000000000000000000000000010100000000000000000000010100000101000000000000000000000000000000000000000000000000000000000000010100000101000001010000000000000101000000000000000000000101000000000000000000000000000000000000010100000000000001010000010100000000000001010000010100000000000001010000000000000000000000000000010100000000000001010000000000000000000000000000000000000000000000000000010100000000000001010000000000000000000000000000000000000000000000000000010100000101000000000000000000000000000001010000000000000101000000000000000000000101000001010000000000000000000000000000000000000101000000000000
   xatlasWarningShown: 0
   foundCompatibleSetup: 1
   gpuName: NVIDIA GeForce RTX 3050
@@ -664,5 +944,5 @@ MonoBehaviour:
   renderSettingsRTPVWidth: 640
   renderSettingsRTPVHeight: 360
   tagOverrides: []
-  modifiedMeshPaddingArray: 47000000
+  modifiedMeshPaddingArray: 32000000
   modifiedMeshUnwrapperArray: 00000000

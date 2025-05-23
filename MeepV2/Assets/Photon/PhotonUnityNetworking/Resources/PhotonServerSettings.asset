@@ -53,6 +53,13 @@ MonoBehaviour:
   - OnHit
   - PlayBonk
   - TriggerExplosionSequence
+  - TriggerMine
+  - ActivateMine
+  - FlashBeep
+  - DoBeep
+  - TeleportPlayer
+  - TeleportTo
+  - ActivateFlashbang
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 0

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57a71c888944be64c836645cacac425b, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  MaxUsernameLength: 16
+  BadCharacters: []
+  KickOnBadName: 1
+  ExitGameOnBadName: 0
+  DetectionInterval: 16
+  KickOnDetection: 1
+  CheckedLibraries:
+  - bootstrap
+  - funchook
+  - dobby
+  - capstone
+  CheckedDLLs:
+  - mscorlib.dll-resources.dat
+  CheckedDEXs: []
+  CustomChecks: []
+  OculusAuth: 0
+  KickFromServerOnFailedAuth: 1
+  ExitGamOnFailedAuth: 1
+  WaitTime: 5000
+  BanDetailsOnFailedAuth:
+    ShouldSend: 1
+    ShouldBan: 0
+    BanTime: 48
+    BanReason: For failing to authenticate
+    SendWebhook: 1
+  BanDetailsOnFailedModCheck:
+    ShouldSend: 1
+    ShouldBan: 0
+    BanTime: 468
+    BanReason: Banned for cheating
+    SendWebhook: 1
+  BanDetailsOnInvalidUsername:
+    ShouldSend: 1
+    ShouldBan: 0
+    BanTime: 12
+    BanReason: For an invalid username
+    SendWebhook: 1
+  AntiDLLInjection: 1

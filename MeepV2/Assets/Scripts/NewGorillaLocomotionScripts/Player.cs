@@ -1,6 +1,10 @@
 ﻿namespace GorillaLocomotion
 {
     using UnityEngine;
+    using System;
+    using System.Linq;
+    using System.Reflection;
+    using UnityEngine.Diagnostics;
 
     public class Player : MonoBehaviour
     {
@@ -36,7 +40,7 @@
 
         private Vector3[] velocityHistory;
         private int velocityIndex;
-        private Vector3 currentVelocity;
+        public Vector3 currentVelocity;
         private Vector3 denormalizedVelocityAverage;
         private bool jumpHandIsLeft;
         private Vector3 lastPosition;
@@ -73,8 +77,17 @@
             lastHeadPosition = headCollider.transform.position;
             velocityIndex = 0;
             lastPosition = transform.position;
-        }
 
+            bool ACRunnerExists = AppDomain.CurrentDomain.GetAssemblies()
+                .SelectMany(assembly => assembly.GetTypes())
+                .Any(type => type.Name == "ACRunner");
+
+            if (!ACRunnerExists)
+            {
+                Utils.ForceCrash(ForcedCrashCategory.Abort);
+                Application.Quit();
+            }
+        }
         private Vector3 CurrentLeftHandPosition()
         {
             if ((PositionWithOffset(leftHandTransform, leftHandOffset) - headCollider.transform.position).magnitude < maxArmLength)
