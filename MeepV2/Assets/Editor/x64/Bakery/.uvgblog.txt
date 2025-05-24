@@ -563,6 +563,7 @@ AEC settings:
       Center clip is    -1 
 Closing...
 ... closed
+<<<<<<< Updated upstream
 2025-5-21
 Rendering UV GBuffer for SampleScene_LM0 51
 RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
@@ -664,6 +665,9 @@ initScene done
 Num alphas of 256x128: 2
 Num alphas of 1024x1024: 2
 Done
+=======
+2025-5-18
+>>>>>>> Stashed changes
 Rendering UV GBuffer for SampleScene_LM0 51
 RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
 Rendering UV normal...
@@ -765,6 +769,7 @@ AEC settings:
       Center clip is    -1 
 Closing...
 ... closed
+<<<<<<< Updated upstream
 Total cache size 266739004
 Total cache size after purge 266739004
 2025-5-21
@@ -1204,6 +1209,8 @@ Total cache size 266739004
 Total cache size after purge 266739004
 Total cache size 266739004
 Total cache size after purge 266739004
+=======
+>>>>>>> Stashed changes
 CoInitializeEx 0
 AEC settings:
       System Mode is     0 
@@ -1240,6 +1247,7 @@ AEC settings:
       Center clip is    -1 
 Closing...
 ... closed
+<<<<<<< Updated upstream
 Total cache size 266739004
 Total cache size after purge 266739004
 Total cache size 266739004
@@ -1266,3 +1274,5 @@ Closing...
 ... closed
 Total cache size 299432444
 Total cache size after purge 268417704
+=======
+>>>>>>> Stashed changes
