@@ -136,6 +136,7 @@ PlayerSettings:
   bundleVersion: 0.5
   preloadedAssets:
   - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 11400000, guid: 82708785e0a12034cb0cda4d00fd89af, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -254,8 +255,8 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/Users/Bloop/user.keystore
-  AndroidKeyaliasName: bloop123
+  AndroidKeystoreName: C:/Users/warre/Downloads/user.keystore
+  AndroidKeyaliasName: 123456
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
