@@ -15131,11 +15131,7 @@ Loading geometry...
 Loading alphas...
 Tile size: 1024
 Device 0: NVIDIA GeForce RTX 3050 (ON)
-<<<<<<< Updated upstream
 Used host memory: 5mb, available GPU memory: 7190mb
-=======
-Used host memory: 6mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 MODE: fixpos12
 USING FLOAT
 Load shaders...
@@ -15144,188 +15140,107 @@ Loading shader lambert_backface_check.ptx::oxMain...
 Loading shader clip_rtx.ptx::oxMain...
 Loading shader shadow_rtx.ptx::oxMain...
 Loading shader attrib_trimesh.ptx::interpolate...
-<<<<<<< Updated upstream
 Used host memory: 8mb, available GPU memory: 7190mb
 Used host memory: 8mb, available GPU memory: 7190mb
-=======
-Used host memory: 9mb, available GPU memory: 7190mb
-Used host memory: 9mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Create buffer...
 Num passes: 2
 Num tex: 2
 Pass uvpos_SampleScene_LM0.lz4_HDR...
 Skipping pass Mask
-<<<<<<< Updated upstream
 Used host memory: 8mb, available GPU memory: 7190mb
-=======
-Used host memory: 9mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Launch 4x4 tiles...
 Tile 0x0...
 Streaming...0
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
 -----
 Mem stats:
 Total: 380
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
------
-Mem stats:
-Total: 382
->>>>>>> Stashed changes
 Alphas: 1
 GI albedos: 0
 GI lightmaps: 0
 Light data: 0
 Output: 256
 UV GBuffer: 40
-<<<<<<< Updated upstream
 Scene: 8274
-=======
-Scene: 8276
->>>>>>> Stashed changes
 -----
 Tile 1x0...
 Streaming...0
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x0...
 Streaming...6
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x0...
 Streaming...12
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 0x1...
 Streaming...18
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 1x1...
 Streaming...25
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x1...
 Streaming...31
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x1...
 Streaming...37
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 0x2...
 Streaming...43
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 1x2...
 Streaming...50
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x2...
 Streaming...56
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x2...
 Streaming...62
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 0x3...
 Streaming...68
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 1x3...
 Streaming...75
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x3...
 Streaming...81
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x3...
 Streaming...87
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
 Render time: 0.192 sec
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
-Render time: 0.381 sec
->>>>>>> Stashed changes
 Writing...
 uvpos_SampleScene_LM0.lz4
 Done
@@ -15335,11 +15250,7 @@ Loading geometry...
 Loading alphas...
 Tile size: 1024
 Device 0: NVIDIA GeForce RTX 3050 (ON)
-<<<<<<< Updated upstream
 Used host memory: 5mb, available GPU memory: 7190mb
-=======
-Used host memory: 6mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 MODE: fixpos12
 USING FLOAT
 Load shaders...
@@ -15348,54 +15259,32 @@ Loading shader lambert_backface_check.ptx::oxMain...
 Loading shader clip_rtx.ptx::oxMain...
 Loading shader shadow_rtx.ptx::oxMain...
 Loading shader attrib_trimesh.ptx::interpolate...
-<<<<<<< Updated upstream
 Used host memory: 8mb, available GPU memory: 7190mb
 Used host memory: 8mb, available GPU memory: 7190mb
-=======
-Used host memory: 9mb, available GPU memory: 7190mb
-Used host memory: 9mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Create buffer...
 Num passes: 2
 Num tex: 2
 Pass uvpos_SampleScene_LMA4.lz4_HDR...
 Skipping pass Mask
-<<<<<<< Updated upstream
 Used host memory: 8mb, available GPU memory: 7190mb
-=======
-Used host memory: 9mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Launch 1x1 tiles...
 Tile 0x0...
 Streaming...0
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 7050mb
 -----
 Mem stats:
 Total: 140
-=======
-Used host memory: 49mb, available GPU memory: 7048mb
------
-Mem stats:
-Total: 142
->>>>>>> Stashed changes
 Alphas: 1
 GI albedos: 0
 GI lightmaps: 0
 Light data: 0
 Output: 16
 UV GBuffer: 40
-<<<<<<< Updated upstream
 Scene: 8274
 -----
 Render time: 0.042 sec
-=======
-Scene: 8276
------
-Render time: 0.051 sec
->>>>>>> Stashed changes
 Writing...
 uvpos_SampleScene_LMA4.lz4
 Done
@@ -15405,11 +15294,7 @@ Loading geometry...
 Loading alphas...
 Tile size: 1024
 Device 0: NVIDIA GeForce RTX 3050 (ON)
-<<<<<<< Updated upstream
 Used host memory: 5mb, available GPU memory: 7190mb
-=======
-Used host memory: 6mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 MODE: fixpos12
 USING FLOAT
 Load shaders...
@@ -15418,46 +15303,29 @@ Loading shader lambert_backface_check.ptx::oxMain...
 Loading shader clip_rtx.ptx::oxMain...
 Loading shader shadow_rtx.ptx::oxMain...
 Loading shader attrib_trimesh.ptx::interpolate...
-<<<<<<< Updated upstream
 Used host memory: 8mb, available GPU memory: 7190mb
 Used host memory: 8mb, available GPU memory: 7190mb
-=======
-Used host memory: 9mb, available GPU memory: 7190mb
-Used host memory: 9mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Create buffer...
 Num passes: 2
 Num tex: 2
 Pass uvpos_SampleScene_LMA2.lz4_HDR...
 Skipping pass Mask
-<<<<<<< Updated upstream
 Used host memory: 8mb, available GPU memory: 7190mb
-=======
-Used host memory: 9mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Launch 4x4 tiles...
 Tile 0x0...
 Streaming...0
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
 -----
 Mem stats:
 Total: 380
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
------
-Mem stats:
-Total: 382
->>>>>>> Stashed changes
 Alphas: 1
 GI albedos: 0
 GI lightmaps: 0
 Light data: 0
 Output: 256
 UV GBuffer: 40
-<<<<<<< Updated upstream
 Scene: 8274
 -----
 Tile 1x0...
@@ -19007,141 +18875,80 @@ Output: 256
 UV GBuffer: 40
 Scene: 8274
 -----
-=======
-Scene: 8276
------
->>>>>>> Stashed changes
 Tile 1x0...
 Streaming...0
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x0...
 Streaming...6
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x0...
 Streaming...12
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 0x1...
 Streaming...18
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 1x1...
 Streaming...25
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x1...
 Streaming...31
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x1...
 Streaming...37
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 0x2...
 Streaming...43
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 1x2...
 Streaming...50
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x2...
 Streaming...56
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x2...
 Streaming...62
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 0x3...
 Streaming...68
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 1x3...
 Streaming...75
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x3...
 Streaming...81
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x3...
 Streaming...87
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
 Render time: 0.257 sec
 Writing...
@@ -19308,11 +19115,6 @@ Launching...
 Used host memory: 48mb, available GPU memory: 6810mb
 Render time: 0.219 sec
 Writing...
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
-Render time: 0.257 sec
-Writing...
->>>>>>> Stashed changes
 uvpos_SampleScene_LMA2.lz4
 Done
 Init...
@@ -19321,11 +19123,7 @@ Loading geometry...
 Loading alphas...
 Tile size: 1024
 Device 0: NVIDIA GeForce RTX 3050 (ON)
-<<<<<<< Updated upstream
 Used host memory: 5mb, available GPU memory: 7190mb
-=======
-Used host memory: 6mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 MODE: fixpos12
 USING FLOAT
 Load shaders...
@@ -19334,46 +19132,29 @@ Loading shader lambert_backface_check.ptx::oxMain...
 Loading shader clip_rtx.ptx::oxMain...
 Loading shader shadow_rtx.ptx::oxMain...
 Loading shader attrib_trimesh.ptx::interpolate...
-<<<<<<< Updated upstream
 Used host memory: 8mb, available GPU memory: 7190mb
 Used host memory: 8mb, available GPU memory: 7190mb
-=======
-Used host memory: 9mb, available GPU memory: 7190mb
-Used host memory: 9mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Create buffer...
 Num passes: 2
 Num tex: 2
 Pass uvpos_SampleScene_LMA3.lz4_HDR...
 Skipping pass Mask
-<<<<<<< Updated upstream
 Used host memory: 8mb, available GPU memory: 7190mb
-=======
-Used host memory: 9mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Launch 4x4 tiles...
 Tile 0x0...
 Streaming...0
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 48mb, available GPU memory: 6810mb
 -----
 Mem stats:
 Total: 380
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
------
-Mem stats:
-Total: 382
->>>>>>> Stashed changes
 Alphas: 1
 GI albedos: 0
 GI lightmaps: 0
 Light data: 0
 Output: 256
 UV GBuffer: 40
-<<<<<<< Updated upstream
 Scene: 8274
 -----
 Tile 1x0...
@@ -22804,141 +22585,80 @@ Output: 256
 UV GBuffer: 40
 Scene: 8275
 -----
-=======
-Scene: 8276
------
->>>>>>> Stashed changes
 Tile 1x0...
 Streaming...0
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x0...
 Streaming...6
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x0...
 Streaming...12
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 0x1...
 Streaming...18
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 1x1...
 Streaming...25
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x1...
 Streaming...31
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x1...
 Streaming...37
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 0x2...
 Streaming...43
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 1x2...
 Streaming...50
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x2...
 Streaming...56
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x2...
 Streaming...62
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 0x3...
 Streaming...68
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 1x3...
 Streaming...75
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x3...
 Streaming...81
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x3...
 Streaming...87
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
 Render time: 0.284 sec
 Writing...
@@ -23179,10 +22899,6 @@ nFNFPFSd
 Launching...
 Used host memory: 47mb, available GPU memory: 6810mb
 Render time: 0.24 sec
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
-Render time: 0.296 sec
->>>>>>> Stashed changes
 Writing...
 uvpos_SampleScene_LMA3.lz4
 Done
@@ -23192,11 +22908,7 @@ Loading geometry...
 Loading alphas...
 Tile size: 1024
 Device 0: NVIDIA GeForce RTX 3050 (ON)
-<<<<<<< Updated upstream
 Used host memory: 4mb, available GPU memory: 7190mb
-=======
-Used host memory: 6mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 MODE: fixpos12
 USING FLOAT
 Load shaders...
@@ -23205,183 +22917,105 @@ Loading shader lambert_backface_check.ptx::oxMain...
 Loading shader clip_rtx.ptx::oxMain...
 Loading shader shadow_rtx.ptx::oxMain...
 Loading shader attrib_trimesh.ptx::interpolate...
-<<<<<<< Updated upstream
 Used host memory: 7mb, available GPU memory: 7190mb
 Used host memory: 7mb, available GPU memory: 7190mb
-=======
-Used host memory: 9mb, available GPU memory: 7190mb
-Used host memory: 9mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Create buffer...
 Num passes: 2
 Num tex: 2
 Pass uvpos_SampleScene_LMA1.lz4_HDR...
 Skipping pass Mask
-<<<<<<< Updated upstream
 Used host memory: 7mb, available GPU memory: 7190mb
-=======
-Used host memory: 9mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Launch 4x4 tiles...
 Tile 0x0...
 Streaming...0
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
 -----
 Mem stats:
 Total: 380
 Alphas: 0
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
------
-Mem stats:
-Total: 382
-Alphas: 1
->>>>>>> Stashed changes
 GI albedos: 0
 GI lightmaps: 0
 Light data: 0
 Output: 256
 UV GBuffer: 40
-<<<<<<< Updated upstream
 Scene: 8275
-=======
-Scene: 8276
->>>>>>> Stashed changes
 -----
 Tile 1x0...
 Streaming...0
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x0...
 Streaming...6
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x0...
 Streaming...12
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 0x1...
 Streaming...18
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 1x1...
 Streaming...25
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x1...
 Streaming...31
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x1...
 Streaming...37
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 0x2...
 Streaming...43
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 1x2...
 Streaming...50
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x2...
 Streaming...56
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x2...
 Streaming...62
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 0x3...
 Streaming...68
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 1x3...
 Streaming...75
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 2x3...
 Streaming...81
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Tile 3x3...
 Streaming...87
 nFNFPFSd
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 47mb, available GPU memory: 6810mb
 Render time: 0.237 sec
 Writing...
@@ -26771,9 +26405,6 @@ Streaming...87
 nFNFPFSd
 Launching...
 Used host memory: 47mb, available GPU memory: 6810mb
-=======
-Used host memory: 49mb, available GPU memory: 6808mb
->>>>>>> Stashed changes
 Render time: 0.253 sec
 Writing...
 uvpos_SampleScene_LMA1.lz4
@@ -26844,21 +26475,12 @@ Loading geometry...
 Loading alphas...
 Tile size: 1024
 Device 0: NVIDIA GeForce RTX 3050 (ON)
-<<<<<<< Updated upstream
 Used host memory: 4mb, available GPU memory: 7190mb
-=======
-Used host memory: 6mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 MODE: texgi
 USING HALF
 Loading additional albedo: uvalbedo_SampleScene_LM0.lz4
 Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
 LM is half
-<<<<<<< Updated upstream
-=======
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
->>>>>>> Stashed changes
 Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
 LM is half
 Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
@@ -26871,30 +26493,20 @@ Loading shader lambert_tex_gi2.ptx::oxMain...
 Loading shader clip_rtx.ptx::oxMain...
 Loading shader shadow3_rtx.ptx::oxMain...
 Loading shader attrib_trimeshTex.ptx::interpolate...
-<<<<<<< Updated upstream
 Used host memory: 588mb, available GPU memory: 7190mb
 Used host memory: 588mb, available GPU memory: 7190mb
-=======
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Create buffer...
 Num passes: 3
 Num tex: 3
 Skipping pass LDR
 Pass SampleScene_LM0_diffuse_HDR...
 Skipping pass HDR2
-<<<<<<< Updated upstream
 Used host memory: 588mb, available GPU memory: 7190mb
-=======
-Used host memory: 598mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Launch 4x4 tiles...
 Tile 0x0...
 Streaming...0
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
 -----
 Mem stats:
@@ -26906,157 +26518,83 @@ Light data: 0
 Output: 128
 UV GBuffer: 28
 Scene: 8279
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
->>>>>>> Stashed changes
 -----
 Tile 1x0...
 Streaming...0
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
->>>>>>> Stashed changes
 Tile 2x0...
 Streaming...6
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
->>>>>>> Stashed changes
 Tile 3x0...
 Streaming...12
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
->>>>>>> Stashed changes
 Tile 0x1...
 Streaming...18
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
->>>>>>> Stashed changes
 Tile 1x1...
 Streaming...25
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
->>>>>>> Stashed changes
 Tile 2x1...
 Streaming...31
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
->>>>>>> Stashed changes
 Tile 3x1...
 Streaming...37
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
->>>>>>> Stashed changes
 Tile 0x2...
 Streaming...43
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
->>>>>>> Stashed changes
 Tile 1x2...
 Streaming...50
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
->>>>>>> Stashed changes
 Tile 2x2...
 Streaming...56
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
->>>>>>> Stashed changes
 Tile 3x2...
 Streaming...62
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
->>>>>>> Stashed changes
 Tile 0x3...
 Streaming...68
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
->>>>>>> Stashed changes
 Tile 1x3...
 Streaming...75
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
->>>>>>> Stashed changes
 Tile 2x3...
 Streaming...81
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
->>>>>>> Stashed changes
 Tile 3x3...
 Streaming...87
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 612mb, available GPU memory: 6370mb
 Render time: 18.243 sec
-=======
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 25.113 sec
->>>>>>> Stashed changes
 Dilate...
 Loading shader dilateHalf.ptx::oxMain...
 0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
@@ -27069,23 +26607,12 @@ Loading geometry...
 Loading alphas...
 Tile size: 1024
 Device 0: NVIDIA GeForce RTX 3050 (ON)
-<<<<<<< Updated upstream
 Used host memory: 4mb, available GPU memory: 7190mb
 MODE: texgi
 USING HALF
 Loading additional albedo: uvalbedo_SampleScene_LMA2.lz4
 Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
 LM is half
-=======
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA4.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
->>>>>>> Stashed changes
 Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
 LM is half
 Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
@@ -27098,18 +26625,12 @@ Loading shader lambert_tex_gi2.ptx::oxMain...
 Loading shader clip_rtx.ptx::oxMain...
 Loading shader shadow3_rtx.ptx::oxMain...
 Loading shader attrib_trimeshTex.ptx::interpolate...
-<<<<<<< Updated upstream
 Used host memory: 588mb, available GPU memory: 7190mb
 Used host memory: 588mb, available GPU memory: 7190mb
-=======
-Used host memory: 538mb, available GPU memory: 7190mb
-Used host memory: 538mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Create buffer...
 Num passes: 3
 Num tex: 3
 Skipping pass LDR
-<<<<<<< Updated upstream
 Pass SampleScene_LMA2_diffuse_HDR...
 Skipping pass HDR2
 Used host memory: 588mb, available GPU memory: 7190mb
@@ -29096,17 +28617,11 @@ Pass probes_final_RNM1...
 Pass probes_final_RNM2...
 Pass probes_final_RNM3...
 Used host memory: 524mb, available GPU memory: 7190mb
-=======
-Pass SampleScene_LMA4_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 538mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Launch 1x1 tiles...
 Tile 0x0...
 Streaming...0
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 6520mb
 -----
 Mem stats:
@@ -29132,2221 +28647,15 @@ Loading shader dilateHalf.ptx::oxMain...
 Dilate...
 Loading shader dilateHalf.ptx::oxMain...
 0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-=======
-Used host memory: 562mb, available GPU memory: 6538mb
------
-Mem stats:
-Total: 652
-Alphas: 1
-GI albedos: 4
-GI lightmaps: 520
-Light data: 0
-Output: 8
-UV GBuffer: 28
-Scene: 8282
------
-Render time: 0.271 sec
->>>>>>> Stashed changes
 Dilate...
 Loading shader dilateHalf.ptx::oxMain...
 0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
 Writing...
-<<<<<<< Updated upstream
 probes_final_HDR.lz4
 probes_final_RNM0.lz4
 probes_final_RNM1.lz4
 probes_final_RNM2.lz4
 probes_final_RNM3.lz4
-=======
-SampleScene_LMA4_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA2.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA2_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 22.476 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA2_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA3.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA3_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 35.356 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA3_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA1.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA1_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 33.175 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA1_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LM0.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LM0_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 25.633 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LM0_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA4.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 538mb, available GPU memory: 7190mb
-Used host memory: 538mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA4_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 538mb, available GPU memory: 7190mb
-Launch 1x1 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 562mb, available GPU memory: 6538mb
------
-Mem stats:
-Total: 652
-Alphas: 1
-GI albedos: 4
-GI lightmaps: 520
-Light data: 0
-Output: 8
-UV GBuffer: 28
-Scene: 8282
------
-Render time: 0.253 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA4_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA2.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA2_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 22.57 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA2_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA3.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA3_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 37.502 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA3_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA1.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA1_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 33.632 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA1_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LM0.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LM0_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 26.511 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LM0_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA4.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 538mb, available GPU memory: 7190mb
-Used host memory: 538mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA4_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 538mb, available GPU memory: 7190mb
-Launch 1x1 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 562mb, available GPU memory: 6538mb
------
-Mem stats:
-Total: 652
-Alphas: 1
-GI albedos: 4
-GI lightmaps: 520
-Light data: 0
-Output: 8
-UV GBuffer: 28
-Scene: 8282
------
-Render time: 0.26 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA4_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA2.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA2_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 22.726 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA2_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA3.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA3_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 35.547 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA3_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA1.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA1_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 33.3 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA1_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LM0.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LM0_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 25.443 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LM0_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA4.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 538mb, available GPU memory: 7190mb
-Used host memory: 538mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA4_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 538mb, available GPU memory: 7190mb
-Launch 1x1 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 562mb, available GPU memory: 6538mb
------
-Mem stats:
-Total: 652
-Alphas: 1
-GI albedos: 4
-GI lightmaps: 520
-Light data: 0
-Output: 8
-UV GBuffer: 28
-Scene: 8282
------
-Render time: 0.269 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA4_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA2.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA2_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 21.93 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA2_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA3.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA3_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 35.358 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA3_diffuse_HDR.lz4
-Done
-Init...
-texgi
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgi
-USING HALF
-Loading additional albedo: uvalbedo_SampleScene_LMA1.lz4
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGI.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 598mb, available GPU memory: 7190mb
-Used host memory: 598mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 3
-Num tex: 3
-Skipping pass LDR
-Pass SampleScene_LMA1_diffuse_HDR...
-Skipping pass HDR2
-Used host memory: 598mb, available GPU memory: 7190mb
-Launch 4x4 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
------
-Mem stats:
-Total: 832
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 128
-UV GBuffer: 28
-Scene: 8282
------
-Tile 1x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x0...
-Streaming...6
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x0...
-Streaming...12
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x1...
-Streaming...18
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x1...
-Streaming...25
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x1...
-Streaming...31
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x1...
-Streaming...37
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x2...
-Streaming...43
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x2...
-Streaming...50
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x2...
-Streaming...56
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x2...
-Streaming...62
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 0x3...
-Streaming...68
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 1x3...
-Streaming...75
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 2x3...
-Streaming...81
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Tile 3x3...
-Streaming...87
-npHD
-Launching...
-Used host memory: 622mb, available GPU memory: 6358mb
-Render time: 32.761 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA1_diffuse_HDR.lz4
->>>>>>> Stashed changes
 Done
 Init...
 texgish
@@ -31354,20 +28663,11 @@ Loading geometry...
 Loading alphas...
 Tile size: 1024
 Device 0: NVIDIA GeForce RTX 3050 (ON)
-<<<<<<< Updated upstream
 Used host memory: 4mb, available GPU memory: 7190mb
-=======
-Used host memory: 6mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 MODE: texgish
 USING HALF
 Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
 LM is half
-<<<<<<< Updated upstream
-=======
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
->>>>>>> Stashed changes
 Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
 LM is half
 Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
@@ -31380,13 +28680,8 @@ Loading shader lambert_tex_gi2.ptx::oxMain...
 Loading shader clip_rtx.ptx::oxMain...
 Loading shader shadow3_rtx.ptx::oxMain...
 Loading shader attrib_trimeshTex.ptx::interpolate...
-<<<<<<< Updated upstream
 Used host memory: 524mb, available GPU memory: 7190mb
 Used host memory: 524mb, available GPU memory: 7190mb
-=======
-Used host memory: 534mb, available GPU memory: 7190mb
-Used host memory: 534mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Create buffer...
 Num passes: 7
 Num tex: 7
@@ -31397,17 +28692,12 @@ Pass SampleScene_LM0_final_RNM0...
 Pass SampleScene_LM0_final_RNM1...
 Pass SampleScene_LM0_final_RNM2...
 Pass SampleScene_LM0_final_RNM3...
-<<<<<<< Updated upstream
 Used host memory: 524mb, available GPU memory: 7190mb
-=======
-Used host memory: 534mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Launch 4x4 tiles...
 Tile 0x0...
 Streaming...0
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
 -----
 Mem stats:
@@ -31419,157 +28709,83 @@ Light data: 0
 Output: 640
 UV GBuffer: 28
 Scene: 8217
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
------
-Mem stats:
-Total: 1282
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 640
-UV GBuffer: 28
-Scene: 8220
->>>>>>> Stashed changes
 -----
 Tile 1x0...
 Streaming...0
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x0...
 Streaming...6
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x0...
 Streaming...12
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 0x1...
 Streaming...18
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 1x1...
 Streaming...25
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x1...
 Streaming...31
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x1...
 Streaming...37
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 0x2...
 Streaming...43
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 1x2...
 Streaming...50
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x2...
 Streaming...56
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x2...
 Streaming...62
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 0x3...
 Streaming...68
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 1x3...
 Streaming...75
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x3...
 Streaming...81
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x3...
 Streaming...87
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
 Render time: 21.763 sec
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
-Render time: 29.231 sec
->>>>>>> Stashed changes
 Dilate...
 Loading shader dilateHalf.ptx::oxMain...
 0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
@@ -31598,101 +28814,10 @@ Loading geometry...
 Loading alphas...
 Tile size: 1024
 Device 0: NVIDIA GeForce RTX 3050 (ON)
-<<<<<<< Updated upstream
 Used host memory: 4mb, available GPU memory: 7190mb
-=======
-Used host memory: 6mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 MODE: texgish
 USING HALF
 Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-<<<<<<< Updated upstream
-=======
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
->>>>>>> Stashed changes
-Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA1_diffuse_HDR.lz4
-LM is half
-Load shaders...
-Loading shader lmTexGISH.ptx::oxMain...
-Loading shader lambert_tex_gi2.ptx::oxMain...
-Loading shader clip_rtx.ptx::oxMain...
-Loading shader shadow3_rtx.ptx::oxMain...
-Loading shader attrib_trimeshTex.ptx::interpolate...
-<<<<<<< Updated upstream
-Used host memory: 524mb, available GPU memory: 7190mb
-Used host memory: 524mb, available GPU memory: 7190mb
-=======
-Used host memory: 534mb, available GPU memory: 7190mb
-Used host memory: 534mb, available GPU memory: 7190mb
-Create buffer...
-Num passes: 7
-Num tex: 7
-Skipping pass LDR
-Pass SampleScene_LMA4_final_HDR...
-Skipping pass HDR2
-Pass SampleScene_LMA4_final_RNM0...
-Pass SampleScene_LMA4_final_RNM1...
-Pass SampleScene_LMA4_final_RNM2...
-Pass SampleScene_LMA4_final_RNM3...
-Used host memory: 534mb, available GPU memory: 7190mb
-Launch 1x1 tiles...
-Tile 0x0...
-Streaming...0
-npHD
-Launching...
-Used host memory: 558mb, available GPU memory: 6508mb
------
-Mem stats:
-Total: 682
-Alphas: 1
-GI albedos: 4
-GI lightmaps: 520
-Light data: 0
-Output: 40
-UV GBuffer: 28
-Scene: 8280
------
-Render time: 0.323 sec
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Dilate...
-Loading shader dilateHalf.ptx::oxMain...
-0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
-Writing...
-SampleScene_LMA4_final_HDR.lz4
-SampleScene_LMA4_final_RNM0.lz4
-SampleScene_LMA4_final_RNM1.lz4
-SampleScene_LMA4_final_RNM2.lz4
-SampleScene_LMA4_final_RNM3.lz4
-Done
-Init...
-texgish
-Loading geometry...
-Loading alphas...
-Tile size: 1024
-Device 0: NVIDIA GeForce RTX 3050 (ON)
-Used host memory: 6mb, available GPU memory: 7190mb
-MODE: texgish
-USING HALF
-Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
-LM is half
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
 LM is half
 Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
 LM is half
@@ -31706,9 +28831,8 @@ Loading shader lambert_tex_gi2.ptx::oxMain...
 Loading shader clip_rtx.ptx::oxMain...
 Loading shader shadow3_rtx.ptx::oxMain...
 Loading shader attrib_trimeshTex.ptx::interpolate...
-Used host memory: 534mb, available GPU memory: 7190mb
-Used host memory: 534mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
+Used host memory: 524mb, available GPU memory: 7190mb
+Used host memory: 524mb, available GPU memory: 7190mb
 Create buffer...
 Num passes: 7
 Num tex: 7
@@ -31719,17 +28843,12 @@ Pass SampleScene_LMA2_final_RNM0...
 Pass SampleScene_LMA2_final_RNM1...
 Pass SampleScene_LMA2_final_RNM2...
 Pass SampleScene_LMA2_final_RNM3...
-<<<<<<< Updated upstream
 Used host memory: 524mb, available GPU memory: 7190mb
-=======
-Used host memory: 534mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Launch 4x4 tiles...
 Tile 0x0...
 Streaming...0
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
 -----
 Mem stats:
@@ -31741,157 +28860,83 @@ Light data: 0
 Output: 640
 UV GBuffer: 28
 Scene: 8217
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
------
-Mem stats:
-Total: 1282
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 640
-UV GBuffer: 28
-Scene: 8220
->>>>>>> Stashed changes
 -----
 Tile 1x0...
 Streaming...0
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x0...
 Streaming...6
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x0...
 Streaming...12
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 0x1...
 Streaming...18
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 1x1...
 Streaming...25
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x1...
 Streaming...31
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x1...
 Streaming...37
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 0x2...
 Streaming...43
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 1x2...
 Streaming...50
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x2...
 Streaming...56
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x2...
 Streaming...62
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 0x3...
 Streaming...68
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 1x3...
 Streaming...75
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x3...
 Streaming...81
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x3...
 Streaming...87
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
 Render time: 15.434 sec
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
-Render time: 23.354 sec
->>>>>>> Stashed changes
 Dilate...
 Loading shader dilateHalf.ptx::oxMain...
 0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
@@ -31920,20 +28965,11 @@ Loading geometry...
 Loading alphas...
 Tile size: 1024
 Device 0: NVIDIA GeForce RTX 3050 (ON)
-<<<<<<< Updated upstream
 Used host memory: 4mb, available GPU memory: 7190mb
-=======
-Used host memory: 6mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 MODE: texgish
 USING HALF
 Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
 LM is half
-<<<<<<< Updated upstream
-=======
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
->>>>>>> Stashed changes
 Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
 LM is half
 Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
@@ -31946,13 +28982,8 @@ Loading shader lambert_tex_gi2.ptx::oxMain...
 Loading shader clip_rtx.ptx::oxMain...
 Loading shader shadow3_rtx.ptx::oxMain...
 Loading shader attrib_trimeshTex.ptx::interpolate...
-<<<<<<< Updated upstream
 Used host memory: 524mb, available GPU memory: 7190mb
 Used host memory: 524mb, available GPU memory: 7190mb
-=======
-Used host memory: 534mb, available GPU memory: 7190mb
-Used host memory: 534mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Create buffer...
 Num passes: 7
 Num tex: 7
@@ -31963,17 +28994,12 @@ Pass SampleScene_LMA3_final_RNM0...
 Pass SampleScene_LMA3_final_RNM1...
 Pass SampleScene_LMA3_final_RNM2...
 Pass SampleScene_LMA3_final_RNM3...
-<<<<<<< Updated upstream
 Used host memory: 524mb, available GPU memory: 7190mb
-=======
-Used host memory: 534mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Launch 4x4 tiles...
 Tile 0x0...
 Streaming...0
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
 -----
 Mem stats:
@@ -31985,157 +29011,83 @@ Light data: 0
 Output: 640
 UV GBuffer: 28
 Scene: 8217
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
------
-Mem stats:
-Total: 1282
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 640
-UV GBuffer: 28
-Scene: 8220
->>>>>>> Stashed changes
 -----
 Tile 1x0...
 Streaming...0
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x0...
 Streaming...6
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x0...
 Streaming...12
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 0x1...
 Streaming...18
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 1x1...
 Streaming...25
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x1...
 Streaming...31
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x1...
 Streaming...37
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 0x2...
 Streaming...43
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 1x2...
 Streaming...50
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x2...
 Streaming...56
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x2...
 Streaming...62
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 0x3...
 Streaming...68
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 1x3...
 Streaming...75
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x3...
 Streaming...81
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x3...
 Streaming...87
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
 Render time: 30.537 sec
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
-Render time: 40.378 sec
->>>>>>> Stashed changes
 Dilate...
 Loading shader dilateHalf.ptx::oxMain...
 0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
@@ -32164,20 +29116,11 @@ Loading geometry...
 Loading alphas...
 Tile size: 1024
 Device 0: NVIDIA GeForce RTX 3050 (ON)
-<<<<<<< Updated upstream
 Used host memory: 4mb, available GPU memory: 7190mb
-=======
-Used host memory: 6mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 MODE: texgish
 USING HALF
 Loading additional lightmap: SampleScene_LM0_diffuse_HDR.lz4
 LM is half
-<<<<<<< Updated upstream
-=======
-Loading additional lightmap: SampleScene_LMA4_diffuse_HDR.lz4
-LM is half
->>>>>>> Stashed changes
 Loading additional lightmap: SampleScene_LMA2_diffuse_HDR.lz4
 LM is half
 Loading additional lightmap: SampleScene_LMA3_diffuse_HDR.lz4
@@ -32190,13 +29133,8 @@ Loading shader lambert_tex_gi2.ptx::oxMain...
 Loading shader clip_rtx.ptx::oxMain...
 Loading shader shadow3_rtx.ptx::oxMain...
 Loading shader attrib_trimeshTex.ptx::interpolate...
-<<<<<<< Updated upstream
 Used host memory: 524mb, available GPU memory: 7190mb
 Used host memory: 524mb, available GPU memory: 7190mb
-=======
-Used host memory: 534mb, available GPU memory: 7190mb
-Used host memory: 534mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Create buffer...
 Num passes: 7
 Num tex: 7
@@ -32207,17 +29145,12 @@ Pass SampleScene_LMA1_final_RNM0...
 Pass SampleScene_LMA1_final_RNM1...
 Pass SampleScene_LMA1_final_RNM2...
 Pass SampleScene_LMA1_final_RNM3...
-<<<<<<< Updated upstream
 Used host memory: 524mb, available GPU memory: 7190mb
-=======
-Used host memory: 534mb, available GPU memory: 7190mb
->>>>>>> Stashed changes
 Launch 4x4 tiles...
 Tile 0x0...
 Streaming...0
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
 -----
 Mem stats:
@@ -32229,151 +29162,81 @@ Light data: 0
 Output: 640
 UV GBuffer: 28
 Scene: 8217
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
------
-Mem stats:
-Total: 1282
-Alphas: 1
-GI albedos: 64
-GI lightmaps: 520
-Light data: 0
-Output: 640
-UV GBuffer: 28
-Scene: 8220
->>>>>>> Stashed changes
 -----
 Tile 1x0...
 Streaming...0
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x0...
 Streaming...6
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x0...
 Streaming...12
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 0x1...
 Streaming...18
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 1x1...
 Streaming...25
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x1...
 Streaming...31
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x1...
 Streaming...37
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 0x2...
 Streaming...43
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 1x2...
 Streaming...50
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x2...
 Streaming...56
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x2...
 Streaming...62
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 0x3...
 Streaming...68
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 1x3...
 Streaming...75
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 2x3...
 Streaming...81
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
->>>>>>> Stashed changes
 Tile 3x3...
 Streaming...87
 npHD
 Launching...
-<<<<<<< Updated upstream
 Used host memory: 548mb, available GPU memory: 5920mb
 Render time: 29.544 sec
 Dilate...
@@ -35764,10 +32627,6 @@ npHD
 Launching...
 Used host memory: 548mb, available GPU memory: 5920mb
 Render time: 28.199 sec
-=======
-Used host memory: 558mb, available GPU memory: 5908mb
-Render time: 34.205 sec
->>>>>>> Stashed changes
 Dilate...
 Loading shader dilateHalf.ptx::oxMain...
 0...1...2...3...4...5...6...7...8...9...10...11...12...13...14...15...
