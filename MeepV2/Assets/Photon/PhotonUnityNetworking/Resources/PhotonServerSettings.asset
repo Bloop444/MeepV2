@@ -16,7 +16,7 @@ MonoBehaviour:
     AppIdRealtime: fae510e7-fcf1-46eb-9ca5-6da3e588b1ed
     AppIdFusion: 
     AppIdChat: 
-    AppIdVoice: 91054bd4-951b-4b39-9444-d92b09a012db
+    AppIdVoice: 097e8735-ef7c-430e-a0bc-44dd585594a5
     AppVersion: 
     UseNameServer: 1
     FixedRegion: us
@@ -60,6 +60,8 @@ MonoBehaviour:
   - TeleportPlayer
   - TeleportTo
   - ActivateFlashbang
+  - TeleportPlayerTransform
+  - ToggleDoor
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 0

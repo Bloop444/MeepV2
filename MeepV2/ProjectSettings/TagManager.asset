@@ -23,6 +23,7 @@ TagManager:
   - TagHitBox
   - Water
   - Body
+  - Keycard
   layers:
   - Default
   - TransparentFX

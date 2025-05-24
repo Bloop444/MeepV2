@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using Photon.Pun;
 
@@ -9,23 +10,26 @@ public class LandMine : MonoBehaviourPun
     public Material beepMaterial;
     public Material originalMaterial;
     public Renderer mineRenderer;
-
-    public GameObject explosionPrefab; // Must be in Resources folder
+    public GameObject explosionPrefab;
     public float explosionLifeTime = 5f;
-
-    public Transform[] teleportTargets;
-    public float teleportDelay = 2f;
+    public float explosionRadius = 5f;
+    public float triggerDelay = 2f;
+    public float teleportDelay = 1f;
     public float reactivationDelay = 3f;
+    public float colliderDisableTime = 0.1f;
 
-    public Transform playerToTeleport; // 👈 Drag your Gorilla Rig root here
     public Light activationLight;
     public AudioSource audioSource;
     public AudioClip beepClip;
     public AudioClip triggerClip;
     public AudioClip explosionClip;
 
-    private bool isCoolingDown = false;
+    public List<Transform> playersToTeleport = new List<Transform>();
+    public List<Transform> teleportTargets = new List<Transform>();
+    public List<Collider> teleportColliders = new List<Collider>();
+
     private PhotonView pv;
+    private bool isCoolingDown = false;
 
     void Start()
     {
@@ -45,13 +49,13 @@ public class LandMine : MonoBehaviourPun
     void FlashBeep()
     {
         if (mineRenderer != null)
-            StartCoroutine(FlashBeepMaterial());
+            StartCoroutine(FlashMaterial());
 
         if (audioSource != null && beepClip != null)
             audioSource.PlayOneShot(beepClip);
     }
 
-    IEnumerator FlashBeepMaterial()
+    IEnumerator FlashMaterial()
     {
         mineRenderer.material = beepMaterial;
         yield return new WaitForSeconds(flashDuration);
@@ -63,86 +67,97 @@ public class LandMine : MonoBehaviourPun
         if (!PhotonNetwork.IsMasterClient || isCoolingDown)
             return;
 
-        PhotonView hitView = other.GetComponentInParent<PhotonView>();
-        PhotonView playerView = playerToTeleport?.GetComponent<PhotonView>();
-
-        if (hitView != null && playerView != null && hitView.ViewID == playerView.ViewID)
+        if (other.CompareTag("Body") || other.CompareTag("HandTag"))
         {
             isCoolingDown = true;
-            int randomIndex = Random.Range(0, teleportTargets.Length);
-            Vector3 targetPos = teleportTargets[randomIndex].position;
-
-            pv.RPC("ActivateMine", RpcTarget.All);
-            playerView.RPC("TeleportTo", playerView.Owner, targetPos);
+            pv.RPC("TriggerMine", RpcTarget.All);
         }
     }
 
     [PunRPC]
-    void ActivateMine()
+    void TriggerMine()
     {
         if (activationLight != null)
-        {
             activationLight.enabled = true;
-            StartCoroutine(DisableLight());
-        }
 
         if (audioSource != null && triggerClip != null)
             audioSource.PlayOneShot(triggerClip);
 
+        StartCoroutine(ExplosionSequence());
+    }
+
+    IEnumerator ExplosionSequence()
+    {
+        yield return new WaitForSeconds(triggerDelay);
+
+        if (audioSource != null && explosionClip != null)
+            audioSource.PlayOneShot(explosionClip);
+
         if (PhotonNetwork.IsMasterClient)
         {
             GameObject explosion = PhotonNetwork.Instantiate(explosionPrefab.name, transform.position, Quaternion.identity);
-            StartCoroutine(DestroyExplosionAfterTime(explosion, explosionLifeTime));
+            StartCoroutine(DestroyExplosion(explosion));
         }
 
-        StartCoroutine(RearmMine());
-    }
+        yield return new WaitForSeconds(teleportDelay);
 
-    IEnumerator DisableLight()
-    {
-        yield return new WaitForSeconds(0.3f);
-        activationLight.enabled = false;
-    }
+        if (PhotonNetwork.IsMasterClient)
+        {
+            for (int i = 0; i < playersToTeleport.Count && i < teleportTargets.Count; i++)
+            {
+                Transform player = playersToTeleport[i];
+                Transform target = teleportTargets[i];
+                PhotonView targetPV = player.GetComponent<PhotonView>();
+                if (targetPV != null)
+                    pv.RPC("TeleportPlayer", RpcTarget.All, targetPV.ViewID, target.position);
+            }
+        }
 
-    IEnumerator RearmMine()
-    {
-        yield return new WaitForSeconds(teleportDelay + reactivationDelay);
+        if (activationLight != null)
+            activationLight.enabled = false;
+
+        yield return new WaitForSeconds(reactivationDelay);
         isCoolingDown = false;
     }
 
     [PunRPC]
-    void TeleportTo(Vector3 position)
+    void TeleportPlayer(int viewID, Vector3 destination)
     {
-        if (photonView.IsMine)
+        PhotonView view = PhotonView.Find(viewID);
+        if (view != null)
+            StartCoroutine(HandleTeleport(view.transform, destination));
+    }
+
+    IEnumerator HandleTeleport(Transform player, Vector3 destination)
+    {
+        foreach (var col in teleportColliders)
+            if (col != null) col.enabled = false;
+
+        player.position = destination;
+
+        Rigidbody rb = player.GetComponent<Rigidbody>();
+        if (rb != null)
         {
-            StartCoroutine(TeleportRoutine(position));
+            rb.velocity = Vector3.zero;
+            rb.angularVelocity = Vector3.zero;
         }
+
+        yield return new WaitForSeconds(colliderDisableTime);
+
+        foreach (var col in teleportColliders)
+            if (col != null) col.enabled = true;
     }
 
-    IEnumerator TeleportRoutine(Vector3 targetPosition)
+    IEnumerator DestroyExplosion(GameObject obj)
     {
-        Collider[] colliders = GetComponentsInChildren<Collider>();
-        foreach (var c in colliders)
-            c.enabled = false;
-
-        transform.position = targetPosition;
-
-        yield return new WaitForSeconds(0.1f);
-
-        foreach (var c in colliders)
-            c.enabled = true;
-    }
-
-    IEnumerator DestroyExplosionAfterTime(GameObject explosion, float time)
-    {
-        yield return new WaitForSeconds(time);
-        if (explosion != null)
-            PhotonNetwork.Destroy(explosion);
+        yield return new WaitForSeconds(explosionLifeTime);
+        if (obj != null)
+            PhotonNetwork.Destroy(obj);
     }
 
     void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(transform.position, 1.0f);
+        Gizmos.DrawWireSphere(transform.position, explosionRadius);
     }
 }
